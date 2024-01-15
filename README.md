@@ -2,10 +2,10 @@
 
 
 ### 1. copy the link below to your terminal
-```git clone https://github.com/Sugarcothe/marvelo.git```
+```git clone https://github.com/Akinbode-Daniel-999/Apple-1.git```
 
 ### 2. Navigate to the cloned project
-```cd marvelo```
+```cd Apple-1```
 
 ### 3. Install packages
 ```npm install```
